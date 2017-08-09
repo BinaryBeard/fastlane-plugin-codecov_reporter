@@ -12,7 +12,7 @@ fastlane add_plugin codecov_reporter
 
 ## About codecov_reporter
 
-Uploads coverage report to Codecov.io
+This plugin will upload coverage reports to Codecov.io
 
 ## Reference
 
