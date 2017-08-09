@@ -1,6 +1,6 @@
 # codecov_reporter plugin
 
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-codecov_reporter)
+### [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-codecov_reporter) [![Build Status](https://travis-ci.org/BinaryBeard/fastlane-plugin-codecov_reporter.svg?branch=master)](https://travis-ci.org/BinaryBeard/fastlane-plugin-codecov_reporter)
 
 ## Getting Started
 
