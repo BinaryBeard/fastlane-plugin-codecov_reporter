@@ -17,8 +17,8 @@ module Fastlane
 
         UI.message "Removing the bash script I got from Codecov.io"
         sh "rm #{ENV['PWD']}/codecov_reporter.sh"
-        UI.message "Removing the created coverage.txt files"
-        sh "rm *.coverage.txt"
+        UI.message "Removing the created coverage.txt files, if any."
+        sh "rm -f *.coverage.txt"
         UI.message "All was well"
       end
 
